@@ -1,0 +1,10 @@
+project_id = "ppyvgtutooixajwacgkg"
+
+[functions.raydium-pools]
+verify_jwt = false
+
+[functions.ai-guardian]
+verify_jwt = false
+
+[functions.ai-strategy-analysis]
+verify_jwt = false
